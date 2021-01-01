@@ -1,0 +1,15 @@
+[
+  {
+    "menu_img":"employee.png",
+    "menu_name":"Employee"
+  },
+
+  {
+    "menu_img":"brick-wall.png",
+    "menu_name":"Tiles Style"
+  },
+
+  {"menu_img":"update",
+    "menu_name":"Update Stock"
+  }
+]
