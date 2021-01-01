@@ -1,15 +1,16 @@
 [
   {
-    "menu_img":"employee.png",
-    "menu_name":"Employee"
+    "menu_img": "https://img.icons8.com/fluent/2x/parse-from-clipboard.png",
+    "menu_name": "Employee"
   },
 
   {
-    "menu_img":"brickwall.png",
-    "menu_name":"Tiles Style"
+    "menu_img": "https://img.icons8.com/flat_round/2x/brick-wall.png",
+    "menu_name": "Tiles Style"
   },
 
-  {"menu_img":"update.png",
-    "menu_name":"Update Stock"
+  {
+    "menu_img": "https://img.icons8.com/fluent/2x/approve-and-update.png",
+    "menu_name": "Update Stock"
   }
 ]
