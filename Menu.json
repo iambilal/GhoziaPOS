@@ -1,5 +1,8 @@
 [
-  
+  {
+    "menu_img": "https://img.icons8.com/fluent/2x/parse-from-clipboard.png",
+    "menu_name": "Employee"
+  },
 
   {
     "menu_img": "https://img.icons8.com/flat_round/2x/brick-wall.png",
