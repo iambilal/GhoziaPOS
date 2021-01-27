@@ -1,0 +1,24 @@
+[
+  {
+    "menu_img": "https://img.icons8.com/dusk/344/add-column.png",
+    "menu_name": "Add Medicine"
+  },
+
+  {
+    "menu_img": "https://img.icons8.com/fluent/344/add-reminder.png",
+    "menu_name": "Set Reminder"
+  },
+
+  {
+    "menu_img": "https://img.icons8.com/cute-clipart/344/apple-health.png",
+    "menu_name": "Health Record"
+  },
+  {
+    "menu_img": "https://img.icons8.com/color/344/doctor-male--v1.png",
+    "menu_name": "Doctor's Profile"
+  },
+  {
+    "menu_img": "https://img.icons8.com/color/344/gear.png",
+    "menu_name": "Profile Setting"
+  }
+]
