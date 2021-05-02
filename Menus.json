@@ -18,6 +18,10 @@
     "menu_name": "Doctor's Profile"
   },
   {
+    "menu_img" : "https://img.icons8.com/cotton/344/worldwide-location--v1.png",
+    "menu_name" : "Set Location"
+  },
+  {
     "menu_img": "https://img.icons8.com/color/344/gear.png",
     "menu_name": "Profile Setting"
   }
