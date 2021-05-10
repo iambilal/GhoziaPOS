@@ -1,0 +1,18 @@
+[
+  {
+    "menu_img" : "https://image.flaticon.com/icons/png/128/2967/2967298.png",
+    "menu_name" : "Complains"
+  },
+  {
+    "menu_img" : "https://image.flaticon.com/icons/png/128/1052/1052815.png",
+    "menu_name" : "Bills"
+  },
+  {
+    "menu_img" : "https://image.flaticon.com/icons/png/128/1052/1052815.png",
+    "menu_name" : "Security"
+  },
+  {
+    "menu_img": "https://img.icons8.com/nolan/344/gear.png",
+    "menu_name": "Settings"
+  }
+]
